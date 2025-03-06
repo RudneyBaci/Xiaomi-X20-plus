@@ -1,4 +1,8 @@
 # Xiaomi-X20-plus
+
+![image](https://github.com/user-attachments/assets/f96484e5-dac6-4986-b4ab-8e1f66393896)
+
+
 Xiaomi X20 plus planning and room cleaning
 Templates in configuration.yaml:
 
